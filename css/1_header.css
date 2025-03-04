@@ -1,0 +1,20 @@
+
+.header {
+display: flex;
+justify-content: center;
+margin-right: auto;
+margin-block: 2rem;
+
+}
+
+
+
+.header__title {
+    font-size: large;
+}
+
+
+.header__darkmode-switch {
+   
+    margin-right: auto;
+}

@@ -1,0 +1,24 @@
+
+@import url("/css/0_base.css");
+@import url("/css/1_header.css");
+@import url("/css/2_main.css");
+@import url("/css/3_footer.css");
+@import url("/css/layout.css");
+
+/* @import url("/css/utility.css"); */
+
+/* @import url("/css/grid.css"); */
+
+
+/* MODULES */
+/* @import url("/css/modules/card.css");  */
+@import url("/css/modules/list_horizon.css");
+/* @import url("/css/modules/button.css"); */
+/* @import url("/css/modules/gallery.css"); */
+/* @import url("/css/modules/events.css"); */
+/* @import url("/css/modules/table.css"); */
+/* @import url("/css/modules/formular.css");  */
+
+
+/* PAGES */
+@import url("/css/detail.css");

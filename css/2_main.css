@@ -1,0 +1,66 @@
+
+section h2 {
+    font-size: large;
+}
+/* ------LIST 1------------------ */
+
+.movies1 {
+    margin-bottom: 3rem;
+
+}
+
+.movies1__showing {
+   display: flex; 
+   justify-content: space-between;
+   margin-block: 1rem;
+   padding-inline: 1rem;
+}
+
+.movies1__list {
+    display: flex;
+    overflow-x: scroll; 
+    gap: 1rem;
+  margin-left: 1rem;
+ 
+    
+}
+
+.movies1__img {
+    width: 9rem;
+    
+}
+
+.movies1__img img{
+    border-radius: 5px;
+}
+
+
+
+/* -------LIST 2--------- */
+
+.movies2 {
+    height: 100vh;
+    padding-inline: 1rem;
+}
+
+.movies2__popular {
+    display: flex; 
+    justify-content: space-between;
+    margin-block: 1rem;
+ }
+
+ .movies2__card {
+width: 85px;
+height: 120px;
+
+ }
+
+
+ .movies2__img img{
+    border-radius: 5px;
+}
+
+ .star {
+    width: 15px;
+    height: 15px;
+ }
